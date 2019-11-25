@@ -1,0 +1,19 @@
+{
+  "name": "jspyxel",
+  "version": "1.0.0",
+  "description": "This is a JS port of the [pyxel](https://github.com/kitao/pyxel) game engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cie/jspyxel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cie/jspyxel/issues"
+  },
+  "homepage": "https://github.com/cie/jspyxel#readme"
+}
